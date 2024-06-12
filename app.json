@@ -1,5 +1,5 @@
 {
-  "name": "CHAT-BOT",
+  "name": "SB_CHAT-BOT",
   "description": "A TELEGRAM CHAT BOT.",
   "logo": "https://graph.org/file/826485f2d7db6f09db8ed.jpg",
   "keywords": [
@@ -16,12 +16,12 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "6435225"
+      "value": "24547299"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "4e984ea35f854762dcde906dce426c2d"
+      "value": "eb10c125d96d2146dc893b744470cea4"
     },
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
@@ -31,12 +31,12 @@
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
-      "value": "mongodb+srv://bikash:bikash@bikash.3jkvhp7.mongodb.net/?retryWrites=true&w=majority"
+      "value": "mongodb+srv://simpletechnique2:simpletechnique2@cluster0.gji97iq.mongodb.net/"
     },
     "OWNER_ID": {
       "description": "User id of the user who will known as owner of the bot.",
       "required": true,
-      "value": "6922271843"
+      "value": "6727962511"
     }
   }
 }
