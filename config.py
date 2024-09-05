@@ -14,19 +14,19 @@ API_HASH = getenv("API_HASH", "eb10c125d96d2146dc893b744470cea4")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "5665435653"))
+OWNER_ID = int(getenv("OWNER_ID", "6363878696"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://samimislam0018:samimislam0018@cluster0.9okt3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-SUPPORT_GRP = getenv("SUPPORT_GRP", "II_MR_OWNER_II")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "secret_world02")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-UPDATE_CHNL = getenv("UPDATE_CHNL", "II_MR_OWNER_II")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "secret_world02")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "II_MR_OWNER_II")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Shadow_oopss")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_USERNAME = getenv("BOT_USERNAME", None)
